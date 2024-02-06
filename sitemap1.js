@@ -2,7 +2,7 @@ var numposts = 100;
 var standardstyling = true;
 
 /*  programmer and maker of this code is belong to founder of http://www.dutorial.com
-    rawgit url (https://cdn.rawgit.com/D-dig/js/gh-pages/sitemap1.js)
+    rawgit url (https://cdn.jsdelivr.net/gh/dutorialcom/script@main/sitemap1.js)
 */
 
 function startpost(json){
